@@ -46,6 +46,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_lines_history_limit: 0
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
